@@ -1,0 +1,44 @@
+
+/* H1 Style */
+h1 {
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: bold;
+  font-size: 100px;
+  color: khaki;
+  background-image: url("file:///Users/Julian/projects/Dasmotos/resources/images/pattern.jpeg");
+}
+
+/* Font-Family */
+.section {
+  font-family: Helvetica;
+  }
+
+/* H2's Style */
+.section h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  }
+
+/* Price Style */
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+/* First H2 Color */
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+/* Second H2 Color */
+#frames {
+  background-color: lightcoral;
+}
+
+/* Third H2 Color */
+#paint {
+  background-color: skyblue;
+}
